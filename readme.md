@@ -11,7 +11,7 @@ I realize that I need to "log" my code day by day (hope so) :) so this repositor
 #### Yii2
 #### Codeignitor
 #### Wordpress
-- [Plugon auto tag category](https://wordpress.org/plugins/daknetcorp-auto-tag-category/)
+- [Plugin auto tag category](https://wordpress.org/plugins/daknetcorp-auto-tag-category/)
 
 ## Python
 - crawler with Selenium
@@ -19,8 +19,8 @@ I realize that I need to "log" my code day by day (hope so) :) so this repositor
 - Pyside
 
 ## React Native
-- [material design collection for ecommerce](https://github.com/truongthanhtungitvn/material-design-collection-ecommerce)
-- [material design listing for ecommerce](https://github.com/truongthanhtungitvn/material-design-listing-ecommerce)
+- [material design collection for Ecommerce](https://github.com/truongthanhtungitvn/material-design-collection-ecommerce)
+- [material design listing for Ecommerce](https://github.com/truongthanhtungitvn/material-design-listing-ecommerce)
 
 ## ReactJs
 
