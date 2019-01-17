@@ -3,6 +3,31 @@ Although I had 6 years experience in programming and joined a lot of projects bu
 I realize that I need to "log" my code day by day (hope so) :) so this repository was born.
 
 ## Kotlin
-- [input validation][0878fb83]
+- [textedit validation](https://github.com/truongthanhtungitvn/TodayILearn/tree/master/Kotlin/exampeKotlinValidation)
 
-  [0878fb83]: https://github.com/truongthanhtungitvn/TodayILearn/tree/master/Kotlin/exampeKotlinValidation "input validation"
+
+## PHP
+#### Laravel
+#### Yii2
+#### Codeignitor
+#### Wordpress
+- [Plugon auto tag category](https://wordpress.org/plugins/daknetcorp-auto-tag-category/)
+
+## Python
+- crawler with Selenium
+- scrapy
+- Pyside
+
+## React Native
+- [material design collection for ecommerce](https://github.com/truongthanhtungitvn/material-design-collection-ecommerce)
+- [material design listing for ecommerce](https://github.com/truongthanhtungitvn/material-design-listing-ecommerce)
+
+## ReactJs
+
+## Angular
+
+### Todo
+
+- [ ] Update some old sources
+- [ ] write detail readme
+- [ ] Write some wikis
