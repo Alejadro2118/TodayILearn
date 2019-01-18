@@ -8,26 +8,31 @@ I realize that I need to "log" my code day by day (hope so) :) so this repositor
 ## Node
 - [Node module Seo Audit](https://www.npmjs.com/package/seoaudit)
 
-## PHP
-#### Laravel
-#### Yii2
-#### Codeignitor
 #### Wordpress
 - [Plugin auto tag category](https://wordpress.org/plugins/daknetcorp-auto-tag-category/)
 
 ## Python
-- crawler with Selenium
-- scrapy
+- Crawler with Selenium
+- Scrapy
 - Pyside
 
 ## React Native
-- [material design collection for Ecommerce](https://github.com/truongthanhtungitvn/material-design-collection-ecommerce)
-- [material design listing for Ecommerce](https://github.com/truongthanhtungitvn/material-design-listing-ecommerce)
+- [Material design collection for Ecommerce](https://github.com/truongthanhtungitvn/material-design-collection-ecommerce)
+- [Material design listing for Ecommerce](https://github.com/truongthanhtungitvn/material-design-listing-ecommerce)
 
 ## ReactJs
+- Demo generate google slider
+- Demo export PDF file
+- Demo use Sequelize
 
 ## Angular
+- Demo use Websocket
+- Demo voice record and visualize to chart
 
+## PHP
+#### Laravel
+#### Yii2
+#### Codeignitor
 ### Todo
 
 - [ ] Update some old sources
